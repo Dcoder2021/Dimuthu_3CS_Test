@@ -1,0 +1,23 @@
+{
+  "name": "dimuthu_3cs_test",
+  "version": "1.0.0",
+  "description": "small Node.js application to monitor the uptime of some websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dcoder2021/Dimuthu_3CS_Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dcoder2021/Dimuthu_3CS_Test/issues"
+  },
+  "homepage": "https://github.com/Dcoder2021/Dimuthu_3CS_Test#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}

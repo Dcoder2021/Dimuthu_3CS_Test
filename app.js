@@ -1,8 +1,9 @@
-// app.js
-const express = require('express');
-const fetch = require('node-fetch');
-const fs = require('fs');
+import express from 'express';
+import fetch from 'node-fetch';
+import fs from 'fs';
 const app = express();
+
+
 
 // Load the list of sites from the JSON file
 const sites = JSON.parse(fs.readFileSync('./sites.json'));

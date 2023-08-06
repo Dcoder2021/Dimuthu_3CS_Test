@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/Dcoder2021/Dimuthu_3CS_Test#readme",
   "dependencies": {
-    "express": "^4.18.2",
-    "node-fetch": "^3.3.2"
+    "@babel/cli": "^7.22.9",
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.5"
   }
 }
